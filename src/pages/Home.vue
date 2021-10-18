@@ -47,7 +47,7 @@
       <q-card class="q-px-xl q-pt-xl text-white bg-secondary text-center" style="max-width: 350px">
         <span class="text-h4 text-weight-light text-warning align-center">Save The Date <br> </span>             
         <span class="text-h7 text-weight-light">WEDDING CEREMONY <br> </span>
-        <span class="text-h7 text-weight-thin">6th November, 2021 <br> <br> </span>        
+        <span class="text-h7 text-weight-thin">6th November, 2021<br>Time: 10.00am <br> <br> </span>        
         <span class="text-h7 text-weight-thin">House on the Rock, Kaduna <br> Galaxy Multipurpose Hall <br>Janruwa Juction, Patrick Yakowa Express Way, Kaduna.<br> <br> </span>
         
         <span class="text-h7 text-weight-light">RECEPTION <br> </span>
@@ -87,13 +87,13 @@
     <div class="text-h5 text-weight-light text-primary text-center">Wedding Colors <br> </div>        
     <div class="text-center">
       <q-chip clickable color="primary" text-color="white">
-        Navy Blue
+        NavyBlue
       </q-chip>
       <q-chip clickable color="teal-10" text-color="white">
-        Emerald Green
+        EmeraldGreen
       </q-chip>
       <q-chip clickable color="amber-5" text-color="white">
-        Champaign Gold
+        ChampagneGold
       </q-chip>            
     </div>
 
