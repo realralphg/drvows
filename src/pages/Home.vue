@@ -105,7 +105,7 @@
     <!-- Two Cards - Groom-->
     <div class="row items-start justify-center  q-pa-md bg-grey-4 ">
       <q-card class="bg-primary" style="max-width: 300px">
-          <img src="images/ralphh.jpg" alt="">
+          <img src="images/Ralphh.jpg" alt="">
       </q-card>
 
       <q-card class="q-pa-md text-grey-7 bg-grey-3" style="max-width: 300px; width: 100%"> 
